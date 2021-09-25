@@ -17,7 +17,7 @@ loan_costs = [500, 600, 200, 1000, 450]
 # @TODO: Use the `len` function to calculate the total number of loans in the list.
 # Print the number of loans from the list
 # YOUR CODE HERE!
-print("\n[Part 1] Automate the calculations:")
+print("\n[Part 1] Automate the Calculations:")
 number_of_loans = 0
 value_of_loasns = 0.00
 
