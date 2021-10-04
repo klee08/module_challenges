@@ -1,0 +1,50 @@
+  103  ls
+  104  echo
+  105  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/cu-virt-fin-pt-09-2021-u-b.git
+  106  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/cu-virt-fin-pt-09-2021-u-b.git
+  107  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/cu-virt-fin-pt-09-2021-u-b.git
+  108  cd cu-virt-fin-pt-09-2021-u-b/
+  109  cd ..
+  110  jupyter lab
+  111  lsls
+  112  ls
+  113  cd cu-virt-fin-pt-09-2021-u-b/
+  114  git push
+  115  git fetch
+  116  conda activate dev
+  117  ls
+  118  cd cu-virt-fin-pt-09-2021-u-b/
+  119  git pull
+  120  jupyter lab
+  121  conda activate dev
+  122  jupyter lab
+  123  conda create -n atmdev1 python=3.7 anaconda
+  124  conda activate dev
+  125  conda activate dev
+  126  conda activate dev
+  127  ls
+  128  cd cu-virt-fin-pt-09-2021-u-b/
+  129  ls
+  130  cd 02-Financial-Applications-Python/
+  131  ls
+  132  cd 1
+  133  ls
+  134  cd Activities/
+  135  ls
+  136  cd ..
+  137  cd ..
+  138  cd 2
+  139  ls
+  140  cd Activities/
+  141  ls
+  142  cd cu-virt-fin-pt-09-2021-u-b/
+  143  git pull
+  144  conda activate dev
+  145  jupyter lab
+  146  conda list
+  147  l
+  148  conda list pandas
+  149  git add README.md
+  150  git commit -m "updated README.md per instruction" 
+  151  git push
+  152  history 50 > terminal_history.txt
