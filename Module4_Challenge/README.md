@@ -1,5 +1,5 @@
 # Portfolio Risk and Return Analysis
-In order to determine and recommend the fund with the most suitable investment (based on given NaV history of 4 funds - whales) per our fund objective  
+In order to determine and recommend the fund with the most suitable investment (based on given NaV history of 4 funds - whales) per our fund objective and horizon
 Analyze key risk-management metrics: 1) the daily returns, 2) standard deviations, 3) Sharpe ratios, and 4) betas (vs. S&P 500)
 
 ## Technologies
