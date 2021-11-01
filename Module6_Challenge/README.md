@@ -22,7 +22,7 @@ This section should include screenshots, code blocks, or animations explaining h
 ---
 
 ## Contributors
-Columbia Fintech bootcamp Faculty and TA 
+Columbia Fintech bootcamp Faculty, TA and 
 Student: Ken Lee
 
 ---
