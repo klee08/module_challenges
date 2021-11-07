@@ -18,9 +18,10 @@ No installation required
 ## Usage
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 Proof of Viola Web publishing of etf_analyzer.ipynb via viola. Please see below files: in the repository:
-capture1.JPG
-capture1.JPG
-capture1.JPG
+
+###https://github.com/klee08/module_challenges/blob/main/Module7_Challenge/capture1.JPG
+###https://github.com/klee08/module_challenges/blob/main/Module7_Challenge/capture2.JPG
+###https://github.com/klee08/module_challenges/blob/main/Module7_Challenge/capture3.JPG
 
 ---
 
