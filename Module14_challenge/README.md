@@ -49,6 +49,8 @@ weighted avg       0.76      0.71      0.66        79
     accuracy                           0.56       518
    macro avg       0.56      0.54      0.49       518
 weighted avg       0.56      0.56      0.51       518
+Answer the following question: What impact resulted from increasing or decreasing the training window?
+ANSWER: By changing rolling windows (one or both windows) for 9 months period or longer, it's making accuracy/performance worse
 
 Step 2: Tune the trading algorithm by adjusting the SMA input features.
 Adjust one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results in your README.md file.
@@ -67,7 +69,7 @@ long_window = 40
    macro avg       0.56      0.54      0.49       518
 weighted avg       0.56      0.56      0.51       518
 
-ANSWER: By changing rolling windows (one or both windows) for 9 months period, making accuracy/performance worse 
+ANSWER: By changing rolling windows (one or both windows) for given 3 or 9 months data period, making accuracy/performance worse
 
 ### Step 3: Choose the set of parameters that best improved the trading algorithm returns. 
               precision    recall  f1-score   support
@@ -79,7 +81,7 @@ ANSWER: By changing rolling windows (one or both windows) for 9 months period, m
    macro avg       0.76      0.65      0.65       128
 weighted avg       0.74      0.72      0.68       128
 
-ANSWER: By chaning SVM kernel from linear to rbf with C=7.0
+ANSWER: By chaning SVM kernel from linear to rbf with C=7.0 with 3 month data sample
 overall Accuracy including recall and precision was improved slightly from 66% to 72%. 
 
 # Technologies
