@@ -12,7 +12,7 @@ _____________________________________________________
 - Streamlit run pychain.py
 
 2. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. 
-e.g. Test Input: http://localhost:8504/#the-pychain-ledger 
+e.g. Test Input:  
 - Sender: Ken Lee
 - Receiver: Kris Hansen
 - Amount: 15000
