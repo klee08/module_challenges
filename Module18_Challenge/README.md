@@ -10,13 +10,13 @@ _____________________________________________________
 # README ANSWERS
 1. PyChain - Our Blockchain-based ledger System User-friendly web insterface
 - Streamlit run pychain.py
+![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
 
 2. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. 
 e.g. Test Input:  
 - Sender: Ken Lee
 - Receiver: Kris Hansen
 - Amount: 15000
-![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
 
 3. Verify the block contents and hashes in the Streamlit drop-down menu.
 Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
