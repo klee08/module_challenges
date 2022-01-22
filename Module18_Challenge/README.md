@@ -2,10 +2,10 @@
 build a blockchain-based ledger system with a user-friendly web interface. 
 This ledger should allow partner banks to conduct financial transactions (i.e.) transfer money between senders and receivers) 
 and to verify the integrity of the data in the ledger.
-* 1. Step 1: # Create a Record Data Class
-* 2. Step 2: # Modify the Existing Block Data Class to Store Record Data
-* 3. Step 3: # Add Relevant User Inputs to the Streamlit Interface
-* 4. Step 4: # Test the PyChain Ledger by Storing Records
+* Step 1: # Create a Record Data Class
+* Step 2: # Modify the Existing Block Data Class to Store Record Data
+* Step 3: # Add Relevant User Inputs to the Streamlit Interface
+* Step 4: # Test the PyChain Ledger by Storing Records
 _____________________________________________________
 # README ANSWERS
 1. PyChain - Our Blockchain-based ledger System User-friendly web insterface
@@ -17,18 +17,18 @@ e.g. Test Input
 - Receiver: Kris Hansen
 - Amount: 15000
 e.g. - http://localhost:8504/#the-pychain-ledger
-- ![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
+[RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
 
 3. Verify the block contents and hashes in the Streamlit drop-down menu.
 Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
 - The PyChain Ledger Record List - Added the above input (new record) to the list successfully
-- [LEDGER_LIST](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image2.PNG)
+[LEDGER_LIST](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image2.PNG)
 
 4. Test the blockchain validation process by using the web interface.
 Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain
 - Block Inspector - Validated the transaction details thru block inspector
-- ![INSPECTOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image3.PNG)
-- ![VALIDATOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image4.PNG)
+[INSPECTOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image3.PNG)
+[VALIDATOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image4.PNG)
 
 _____________________________________________________
 # Technologies
