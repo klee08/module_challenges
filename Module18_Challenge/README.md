@@ -31,10 +31,10 @@ Take a screenshot of the Streamlit application page, which should indicate the v
 
 _____________________________________________________
 # Technologies
-* 1. Blockchain is a technology that records and shares data over a network, such as the internet (decentralized)
+## 1. Blockchain is a technology that records and shares data over a network, such as the internet (decentralized)
 -  Shared Accounting with Digital Ledgers: Data class (dataclass) is used to create a block in our blockchain and digital ledger
 -  Improved Data Integrity with Hashing (hashlib)
-* 2. Streamlit application turns Python scripts into shareable web apps - a user-friendly webpage interface for a blockchain.
+## 2. Streamlit application turns Python scripts into shareable web apps - a user-friendly webpage interface for a blockchain.
   
 # Installation Guide
 For this project modeule: we need the following dependencies:
