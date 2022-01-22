@@ -16,18 +16,18 @@ e.g. Test Input: http://localhost:8504/#the-pychain-ledger
 - Sender: Ken Lee
 - Receiver: Kris Hansen
 - Amount: 15000
-[RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
+![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
 
 3. Verify the block contents and hashes in the Streamlit drop-down menu.
 Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
 - The PyChain Ledger Record List - Added the above input (new record) to the list successfully
-[LEDGER_LIST](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image2.PNG)
+![LEDGER_LIST](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image2.PNG)
 
 4. Test the blockchain validation process by using the web interface.
 Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain
 - Block Inspector - Validated the transaction details thru block inspector
-[INSPECTOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image3.PNG)
-[VALIDATOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image4.PNG)
+![INSPECTOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image3.PNG)
+![VALIDATOR](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image4.PNG)
 
 _____________________________________________________
 # Technologies
