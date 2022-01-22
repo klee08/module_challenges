@@ -12,11 +12,10 @@ _____________________________________________________
 - Streamlit run pychain.py
 
 2. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. 
-e.g. Test Input 
+e.g. Test Input: http://localhost:8504/#the-pychain-ledger 
 - Sender: Ken Lee
 - Receiver: Kris Hansen
 - Amount: 15000
-e.g. - http://localhost:8504/#the-pychain-ledger
 [RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
 
 3. Verify the block contents and hashes in the Streamlit drop-down menu.
