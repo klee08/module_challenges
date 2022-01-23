@@ -1,9 +1,16 @@
 # Module 15 Challenge: RoboAdvisor
 Create a robo advisor enables new customers to get investment portfolio recommendations for retirement.
 * Step 1: Configure the Initial Robo Advisor
-
+- RoboAdvisor Created
+![ROBOADVISOR](https://github.com/klee08/module_challenges/blob/main/Module15_challenge/Resources/image1.PNG)
 * Step 2: Build and Test the Robo Advisor
+![ROBO_CONFIG](https://github.com/klee08/module_challenges/blob/main/Module15_challenge/Resources/image2.PNG)
+
+
 * Step 3: Enhance the Robo Advisor with an Amazon Lambda Function
+![LAMBDA](https://github.com/klee08/module_challenges/blob/main/Module15_challenge/Resources/image3.PNG)
+![LAMBDA](https://github.com/klee08/module_challenges/blob/main/Module15_challenge/Resources/image4.PNG)
+
 _____________________________________________________
 # Technologies
 ## 1. Amazon Lex bot
