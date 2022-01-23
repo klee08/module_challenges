@@ -4,8 +4,8 @@ Create a robo advisor enables new customers to get investment portfolio recommen
 
 ROBO RUN VIDEO CAPTURE
 Due to the size, uploaded to youtube: 
-- [SETUP](https://youtu.be/3-7w8Q0oxSE)
-- [FINAL](https://youtu.be/LgwO7rljaGM)
+- [SETUP VIDEO CAPTURE](https://youtu.be/3-7w8Q0oxSE)
+- [FINAL VIDEO CAPTURE](https://youtu.be/LgwO7rljaGM)
 
 * Step 1: Configure the Initial Robo Advisor
 - RoboAdvisor Created
