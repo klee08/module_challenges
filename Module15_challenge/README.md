@@ -35,7 +35,7 @@ To run RoboAdvisor,
 - I'm worried about my retirement
 - I want to invest for my retirement
 - I would like to invest for my retirement
-2. provide information such as firstname, age, investmentAmount, riskLeel
+2. provide information such as firstname, age, investmentAmount, riskLevel
 3. investment suggestion will be prompt as return
 
 # Contributers
