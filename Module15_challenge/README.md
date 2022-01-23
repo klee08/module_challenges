@@ -1,5 +1,12 @@
 # Module 15 Challenge: RoboAdvisor
 Create a robo advisor enables new customers to get investment portfolio recommendations for retirement.
+
+
+ROBO RUN VIDEO CAPTURE
+Due to the size, uploaded to youtube: 
+![SETUP](https://youtu.be/3-7w8Q0oxSE)
+![FINAL](https://youtu.be/LgwO7rljaGM)
+
 * Step 1: Configure the Initial Robo Advisor
 - RoboAdvisor Created
 ![ROBOADVISOR](https://github.com/klee08/module_challenges/blob/main/Module15_challenge/Resources/image1.PNG)
