@@ -7,21 +7,23 @@ Cryptocurrency Wallet
 * STEP4: Digitally sign a transaction that pays a Fintech Finder candidate, and send this transaction to the Ganache blockchain.
 * STEP5: Review the transaction hash code associated with the validated blockchain transaction.
 _____________________________________________________
-# README ANSWERS
+# README ANSWERS - SCREEN SHOTS
 1.To launch the Streamlit application, type `streamlit run fintech_finder.py`.
-![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
+![RUN_SCREEN](https://github.com/klee08/module_challenges/blob/main/Module19_Challenge/Images/0_run.png)
 
 2. On the resulting webpage, select a candidate that you would like to hire
 # from the appropriate drop-down menu. Then, enter the number of hours that you and Click the Send Transaction button to sign and send the transaction with your Ethereum account information. If the transaction is successfully
 communicated to Ganache, validated, and added to a block, a resulting transaction hash code will be written to the Streamlit application sidebar.
-![SEND_TRANACTION](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image1.PNG)
+![SEND_TRANACTION](https://github.com/klee08/module_challenges/blob/main/Module19_Challenge/Images/2_send_wage_hash_generated.png)
 
 3. Navigate to the Ganache accounts tab and locate your account (index 0).and Take a screenshot of the address, balance, and transaction (TX) count.
-- ![MY ACCOUNT_BEFORE](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image2.PNG)
+- BEFORE TRANSACTION:
+- ![MY ACCOUNT_BEFORE](https://github.com/klee08/module_challenges/blob/main/Module19_Challenge/Images/1_before_transfer.png)
+- AFTER TRANSACTION:
+- ![MY ACCOUNT_BEFORE](https://github.com/klee08/module_challenges/blob/main/Module19_Challenge/Images/3_4ETH_deducted.png)
 
 4.  Navigate to the Ganache transactions tab and locate the transaction. Click the transaction and take a screenshot of it.
-- ![MY_ACCOUNT_BALANCE_AFTER](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image3.PNG)
-- ![TRANSCTION_RECORD](https://github.com/klee08/module_challenges/blob/main/Module18_Challenge/Resources/image4.PNG)
+- ![TRANSCTION_RECORD](https://github.com/klee08/module_challenges/blob/main/Module19_Challenge/Images/4_TRANSACTION_RECORD.png)
 
 _____________________________________________________
 # Technologies
